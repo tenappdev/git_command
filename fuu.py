@@ -1,2 +1,2 @@
 print("Test git add")
-print("commit change on local for conflict")
+print("commit change on repository website")
